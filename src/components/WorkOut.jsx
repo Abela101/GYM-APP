@@ -59,9 +59,9 @@ export default function WorkOut() {
             <h1 className="text-red-500 text-4xl md:text-6xl lg:text-8xl">IT'S TIME TO GET</h1>
             <h1 className="text-red-500 text-4xl md:text-6xl lg:text-8xl">GYM APP</h1>
             <h3 className="text-blue-500 mt-4 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl">
-              I understand that by using this app,<br />
-              I may transform into a muscle-bound behemoth,<br />
-              accept all consequences of becoming a living legend,<br />
+              I understand that by using this app<br />
+              I may transform into a muscle-bound behemoth<br />
+              accept all consequences of becoming a living legend<br />
               and embrace the possibility of outgrowing my clothes and doorways.
             </h3>
           </div>
